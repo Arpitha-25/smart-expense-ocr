@@ -1,0 +1,13 @@
+{
+    "company_name": "SANYU STATIONERY SHOP",
+    "date": "11/12/2017",
+    "total": 7.0,
+    "items": [
+        {
+            "description": "SB-5882 CAMIS NCR BILL BOOK 5\"x8\" (BB-S882)",
+            "quantity": 2,
+            "price": 3.5,
+            "total_price": 7.0
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "company_name": "RESTORAN WAN SHENG",
+    "date": "11-06-2018",
+    "total": 7.8,
+    "items": [
+        {
+            "description": "Teh (B)",
+            "quantity": 2,
+            "price": 2.2,
+            "total_price": 4.4
+        },
+        {
+            "description": "Milo (B)",
+            "quantity": 1,
+            "price": 2.8,
+            "total_price": 2.8
+        },
+        {
+            "description": "Take Away",
+            "quantity": 3,
+            "price": 0.2,
+            "total_price": 0.6
+        }
+    ]
+}

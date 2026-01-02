@@ -1,0 +1,13 @@
+{
+    "company_name": "PROSPER NIAGA",
+    "date": "26/06/18",
+    "total": 100.0,
+    "items": [
+        {
+            "description": "V-Power 97",
+            "quantity": 38.61,
+            "price": 2.59,
+            "total_price": 100.0
+        }
+    ]
+}

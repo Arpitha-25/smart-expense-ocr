@@ -1,0 +1,37 @@
+{
+    "company_name": "SUNFISH",
+    "date": "08/01/2018",
+    "total": 28.7,
+    "items": [
+        {
+            "description": "SALTED F.RICE",
+            "quantity": 1,
+            "price": 8.5,
+            "total_price": 8.5
+        },
+        {
+            "description": "FRIED EGG",
+            "quantity": 1,
+            "price": 1.8,
+            "total_price": 1.8
+        },
+        {
+            "description": "NASI LEMAK DRUMSTICK",
+            "quantity": 1,
+            "price": 9.8,
+            "total_price": 9.8
+        },
+        {
+            "description": "SOYA CINCAU",
+            "quantity": 1,
+            "price": 4.3,
+            "total_price": 4.3
+        },
+        {
+            "description": "LARGE / ICE TEA",
+            "quantity": 1,
+            "price": 4.3,
+            "total_price": 4.3
+        }
+    ]
+}

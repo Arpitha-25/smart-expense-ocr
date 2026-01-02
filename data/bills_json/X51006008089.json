@@ -1,0 +1,31 @@
+{
+    "company_name": "POPULAR BOOK CO. (M) SDN BHD",
+    "date": "27/02/18",
+    "total": 41.0,
+    "items": [
+        {
+            "description": "DOCUMENT HOL A4 1486A-Tra",
+            "quantity": 2,
+            "price": 1.15,
+            "total_price": 2.3
+        },
+        {
+            "description": "PB PVC A4 L-FLD PBA41.25",
+            "quantity": 2,
+            "price": 3.9,
+            "total_price": 7.8
+        },
+        {
+            "description": "Canon Cal AS120V Grey",
+            "quantity": 1,
+            "price": 29.9,
+            "total_price": 29.9
+        },
+        {
+            "description": "Nasi APRIG/Seashore [BK]",
+            "quantity": 1,
+            "price": 5.0,
+            "total_price": 5.0
+        }
+    ]
+}

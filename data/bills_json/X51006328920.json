@@ -1,0 +1,13 @@
+{
+    "company_name": "3B & BEST RESTAURANT",
+    "date": "20/03/2017",
+    "total": 14.85,
+    "items": [
+        {
+            "description": "FISHBALL NOODLE",
+            "quantity": 2,
+            "price": 7.0,
+            "total_price": 14.0
+        }
+    ]
+}

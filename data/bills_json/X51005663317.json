@@ -1,0 +1,13 @@
+{
+    "company_name": "LIM SENG THO HARDWARE TRADING",
+    "date": "29/12/2017",
+    "total": 6.0,
+    "items": [
+        {
+            "description": "SIMEN(S)",
+            "quantity": 3.0,
+            "price": 2.0,
+            "total_price": 6.0
+        }
+    ]
+}

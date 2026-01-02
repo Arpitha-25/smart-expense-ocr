@@ -1,0 +1,13 @@
+{
+    "company_name": "SUN WONG KUT SDN BHD",
+    "date": "21/02/18",
+    "total": 88.17,
+    "items": [
+        {
+            "description": "FuelSave 95",
+            "quantity": 39.54,
+            "price": 2.23,
+            "total_price": 88.17
+        }
+    ]
+}

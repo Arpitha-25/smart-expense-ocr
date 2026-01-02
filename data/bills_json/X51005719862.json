@@ -1,0 +1,19 @@
+{
+    "company_name": "99. SPEED MART S/B",
+    "date": "03-02-18",
+    "total": 3.7,
+    "items": [
+        {
+            "description": "LABOOST DRINKING WATER",
+            "quantity": 1,
+            "price": 0.5,
+            "total_price": 0.5
+        },
+        {
+            "description": "NEGBUN PLASTER",
+            "quantity": 10,
+            "price": 0.32,
+            "total_price": 3.2
+        }
+    ]
+}
